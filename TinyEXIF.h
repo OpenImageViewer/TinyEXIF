@@ -36,6 +36,7 @@
 
 #include <string>
 #include <vector>
+#include <cstdint>
 
 #define TINYEXIF_MAJOR_VERSION 1
 #define TINYEXIF_MINOR_VERSION 0
